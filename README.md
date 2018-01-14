@@ -1,2 +1,4 @@
 # pchain-pre
-it is mainly refer to previous work of PCHAIN
+the previous work of PCHAIN is here: https://github.com/stone2water/ethdata
+
+and migration will start soon ...
