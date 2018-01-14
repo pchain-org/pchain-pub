@@ -1,4 +1,5 @@
-# pchain-pre
-the previous work of PCHAIN is here: https://github.com/stone2water/ethdata
+# pchain-pub
 
-and migration will start soon ...
+welcome to PCHAIN - the first wolrd-class multi-blockchain.
+
+part of previous code of PCHAIN is in: https://github.com/stone2water/ethdata, and migration will start soon ...
